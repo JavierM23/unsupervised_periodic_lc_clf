@@ -1,7 +1,7 @@
 # unsupervised_periodic_lc_clf
 Datos y referencias para el proyecto del EL4106-1 de Clustering y visualización de curvas de luz de estrellas periódicas.
 
-Dentro de este repositorio se adjunto el csv con los labels utilizados por ALeRCE en [2], ustedes deben trabajar con estos y las alertas astronomicas que se encuentran almacenadas en el siguiente link: [LINK]
+Dentro de este repositorio se adjunto el csv con los labels utilizados por ALeRCE en [2], ustedes deben trabajar con estos y las alertas astronomicas que se encuentran almacenadas en el siguiente link: [https://drive.google.com/drive/folders/1_lolxADKRudXh6Gvl4l8wKwUzd0GTxRR?usp=sharing]
 
 Además pueden encontrar las referencias del proyecto, estas son:
 
